@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compute my grades</string>
+    <string name="please_enter_your_grades">Please enter your grades</string>
+</resources>

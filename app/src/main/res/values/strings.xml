@@ -6,4 +6,5 @@
     <string name="labs_grade_20_max">labs grade (20% max)</string>
     <string name="midterm_grade_30_max">midterm grade (30% max)</string>
     <string name="project_grade_20_max">project grade (20% max)</string>
+    <string name="please_select_desired_final_grade">Please select desired final grade</string>
 </resources>

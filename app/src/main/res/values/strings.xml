@@ -7,6 +7,7 @@
     <string name="midterm_grade_30_max">midterm grade (30% max)</string>
     <string name="project_grade_20_max">project grade (20% max)</string>
     <string name="please_select_desired_final_grade">Please select desired final grade</string>
+    <string name="close">Close</string>
 
     <string-array name="grades">
         <item>A+</item>
@@ -18,9 +19,6 @@
         <item>C+</item>
         <item>C</item>
         <item>C-</item>
-        <item>P</item>
-        <item>F</item>
-        <item>UN</item>
     </string-array>
 
 </resources>

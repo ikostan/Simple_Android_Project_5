@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Compute my grades</string>
     <string name="please_enter_your_grades">Please enter your grades</string>
+    <string name="calculate">Calculate</string>
+    <string name="final_grade_30_max">final grade (30% max)</string>
+    <string name="labs_grade_20_max">labs grade (20% max)</string>
+    <string name="midterm_grade_30_max">midterm grade (30% max)</string>
+    <string name="project_grade_20_max">project grade (20% max)</string>
 </resources>
